@@ -1,6 +1,8 @@
 # Database Coursework
 
-This repository contains coursework projects related to database & sql systems.
+This repository contains coursework projects related to database & sql systems
+when learning following courses:
+- "**Database system concepts**" 6th Edition (by _Wang Shan_ / _Higher Education Press_ )
 
 Any questions or suggestions are welcome to contact me 
 via email [**carm@carm.cc**](mailto:carm@carm.cc) or [issues](https://github.com/CarmJos/db-courseworks/issues/new) .
