@@ -3,7 +3,7 @@
 This repository contains coursework projects related to database & sql systems.
 
 Any questions or suggestions are welcome to contact me 
-via email [**carm@carm.cc**](mailto:carm@carm.cc) or [issues](https://github.com/CarmJos/mcu-courseworks/issues/new) .
+via email [**carm@carm.cc**](mailto:carm@carm.cc) or [issues](https://github.com/CarmJos/db-courseworks/issues/new) .
 
 ## Open Source Licence
 
