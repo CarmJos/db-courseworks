@@ -1,0 +1,7 @@
+# Intellj
+.idea/**
+!.idea/icon.svg
+!.idea/icon.png
+
+# Apple
+*.DS_Store
